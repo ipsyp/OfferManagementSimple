@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferManagement.BusinessModel", "OfferManagement.BusinessModel\OfferManagement.BusinessModel.csproj", "{82248BAB-C2C1-4E3A-9713-3220A27258DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferManagement.BusinessModel.Flow", "OfferManagement.BusinessModel.Flow\OfferManagement.BusinessModel.Flow.csproj", "{D27A9BFB-CEBF-4EE1-B513-DF3CA3D3A70A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferManagement.Utils", "OfferManagement.Utils\OfferManagement.Utils.csproj", "{C7B79885-ACE3-4574-AC38-AA689981EF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferManagement.Portal", "OfferManagement.Portal\OfferManagement.Portal.csproj", "{4F9F419E-352F-42E1-B7DE-01B3E58C0BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Ifestion|Any CPU = Ifestion|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82248BAB-C2C1-4E3A-9713-3220A27258DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82248BAB-C2C1-4E3A-9713-3220A27258DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82248BAB-C2C1-4E3A-9713-3220A27258DF}.Ifestion|Any CPU.ActiveCfg = Ifestion|Any CPU
+		{82248BAB-C2C1-4E3A-9713-3220A27258DF}.Ifestion|Any CPU.Build.0 = Ifestion|Any CPU
+		{82248BAB-C2C1-4E3A-9713-3220A27258DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82248BAB-C2C1-4E3A-9713-3220A27258DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27A9BFB-CEBF-4EE1-B513-DF3CA3D3A70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27A9BFB-CEBF-4EE1-B513-DF3CA3D3A70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27A9BFB-CEBF-4EE1-B513-DF3CA3D3A70A}.Ifestion|Any CPU.ActiveCfg = Release|Any CPU
+		{D27A9BFB-CEBF-4EE1-B513-DF3CA3D3A70A}.Ifestion|Any CPU.Build.0 = Release|Any CPU
+		{D27A9BFB-CEBF-4EE1-B513-DF3CA3D3A70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27A9BFB-CEBF-4EE1-B513-DF3CA3D3A70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B79885-ACE3-4574-AC38-AA689981EF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B79885-ACE3-4574-AC38-AA689981EF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B79885-ACE3-4574-AC38-AA689981EF15}.Ifestion|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B79885-ACE3-4574-AC38-AA689981EF15}.Ifestion|Any CPU.Build.0 = Release|Any CPU
+		{C7B79885-ACE3-4574-AC38-AA689981EF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B79885-ACE3-4574-AC38-AA689981EF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9F419E-352F-42E1-B7DE-01B3E58C0BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9F419E-352F-42E1-B7DE-01B3E58C0BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9F419E-352F-42E1-B7DE-01B3E58C0BD4}.Ifestion|Any CPU.ActiveCfg = Ifestion|Any CPU
+		{4F9F419E-352F-42E1-B7DE-01B3E58C0BD4}.Ifestion|Any CPU.Build.0 = Ifestion|Any CPU
+		{4F9F419E-352F-42E1-B7DE-01B3E58C0BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9F419E-352F-42E1-B7DE-01B3E58C0BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ipsyp.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OfferManagement.BusinessModel.Flow\\OfferManagement.BusinessModel.Flow.csproj
+		SccProjectName1 = OfferManagement.BusinessModel.Flow
+		SccLocalPath1 = OfferManagement.BusinessModel.Flow
+		SccProjectUniqueName2 = OfferManagement.BusinessModel\\OfferManagement.BusinessModel.csproj
+		SccProjectName2 = OfferManagement.BusinessModel
+		SccLocalPath2 = OfferManagement.BusinessModel
+		SccProjectUniqueName3 = OfferManagement.Portal\\OfferManagement.Portal.csproj
+		SccProjectName3 = OfferManagement.Portal
+		SccLocalPath3 = OfferManagement.Portal
+		SccProjectUniqueName4 = OfferManagement.Utils\\OfferManagement.Utils.csproj
+		SccProjectName4 = OfferManagement.Utils
+		SccLocalPath4 = OfferManagement.Utils
+	EndGlobalSection
+EndGlobal
