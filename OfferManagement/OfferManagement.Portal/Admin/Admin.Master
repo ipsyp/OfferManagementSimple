@@ -4,8 +4,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
     <asp:PlaceHolder ID="PlaceHolder1" runat="server">
-        <%= Html.Css("~/_css/ArmyLaptopsReset.css") %>
-        <%= Html.Css("~/_css/ArmyLaptopsMain.css") %>
+        <%= Html.Css("~/_css/OfferManagementReset.css") %>
+        <%= Html.Css("~/_css/OfferManagementMain.css") %>
         <%= Html.Css("~/_css/backOffice.css") %>
         <%= Html.Css("/_css/jquery-ui/redmond/jquery-ui-1.10.1.custom.min.css", true) %>
         <%= Html.Css("/_css/jquery.tipsy.css", true) %>
